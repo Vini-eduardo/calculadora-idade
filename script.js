@@ -1,3 +1,4 @@
+//Vinícius Eduardo Correia
 function calcularTempo() {
     const nome = document.getElementById("nome").value;
     const nascimento = new Date(document.getElementById("nascimento").value);
